@@ -272,7 +272,7 @@
     width: 45px;
     height: 5px;
     bottom: 0;
-    background: var(--dark);
+    background: var(--primary);
 }
 
 .section-title h1::before {
