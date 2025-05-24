@@ -24,6 +24,7 @@
     right: 45px;
     bottom: 45px;
     z-index: 99;
+    border: 1px solid #FFFFFF;
 }
 
 
@@ -604,7 +605,7 @@
 }
 
 .footer .btn.btn-link:hover {
-    color: var(--primary);
+    color: var(--secondary);
     letter-spacing: 1px;
     box-shadow: none;
 }
