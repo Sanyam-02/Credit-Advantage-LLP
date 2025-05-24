@@ -613,13 +613,9 @@
     padding: 25px 0;
     font-size: 15px;
     border-top: 1px solid rgba(256, 256, 256, .1);
+    user-select: none
 }
 
 .footer .copyright a {
     color: var(--light);
-}
-
-.footer .copyright a:hover {
-    color: var(--primary);
-    background-color: var(--secondary);
 }
